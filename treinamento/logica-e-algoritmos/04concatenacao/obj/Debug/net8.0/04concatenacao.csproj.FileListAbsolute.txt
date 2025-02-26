@@ -1,0 +1,15 @@
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\04concatenacao\bin\Debug\net8.0\04concatenacao.exe
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\04concatenacao\bin\Debug\net8.0\04concatenacao.deps.json
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\04concatenacao\bin\Debug\net8.0\04concatenacao.runtimeconfig.json
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\04concatenacao\bin\Debug\net8.0\04concatenacao.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\04concatenacao\bin\Debug\net8.0\04concatenacao.pdb
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\04concatenacao\obj\Debug\net8.0\04concatenacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\04concatenacao\obj\Debug\net8.0\04concatenacao.AssemblyInfoInputs.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\04concatenacao\obj\Debug\net8.0\04concatenacao.AssemblyInfo.cs
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\04concatenacao\obj\Debug\net8.0\04concatenacao.csproj.CoreCompileInputs.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\04concatenacao\obj\Debug\net8.0\04concatenacao.sourcelink.json
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\04concatenacao\obj\Debug\net8.0\04concatenacao.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\04concatenacao\obj\Debug\net8.0\refint\04concatenacao.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\04concatenacao\obj\Debug\net8.0\04concatenacao.pdb
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\04concatenacao\obj\Debug\net8.0\04concatenacao.genruntimeconfig.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\04concatenacao\obj\Debug\net8.0\ref\04concatenacao.dll

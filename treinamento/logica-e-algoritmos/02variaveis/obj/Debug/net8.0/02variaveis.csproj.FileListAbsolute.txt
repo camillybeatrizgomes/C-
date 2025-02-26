@@ -1,0 +1,15 @@
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\02variaveis\bin\Debug\net8.0\02variaveis.exe
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\02variaveis\bin\Debug\net8.0\02variaveis.deps.json
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\02variaveis\bin\Debug\net8.0\02variaveis.runtimeconfig.json
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\02variaveis\bin\Debug\net8.0\02variaveis.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\02variaveis\bin\Debug\net8.0\02variaveis.pdb
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\02variaveis\obj\Debug\net8.0\02variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\02variaveis\obj\Debug\net8.0\02variaveis.AssemblyInfoInputs.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\02variaveis\obj\Debug\net8.0\02variaveis.AssemblyInfo.cs
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\02variaveis\obj\Debug\net8.0\02variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\02variaveis\obj\Debug\net8.0\02variaveis.sourcelink.json
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\02variaveis\obj\Debug\net8.0\02variaveis.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\02variaveis\obj\Debug\net8.0\refint\02variaveis.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\02variaveis\obj\Debug\net8.0\02variaveis.pdb
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\02variaveis\obj\Debug\net8.0\02variaveis.genruntimeconfig.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\02variaveis\obj\Debug\net8.0\ref\02variaveis.dll

@@ -1,0 +1,15 @@
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\19laco_foreach\bin\Debug\net8.0\19laco_foreach.exe
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\19laco_foreach\bin\Debug\net8.0\19laco_foreach.deps.json
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\19laco_foreach\bin\Debug\net8.0\19laco_foreach.runtimeconfig.json
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\19laco_foreach\bin\Debug\net8.0\19laco_foreach.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\19laco_foreach\bin\Debug\net8.0\19laco_foreach.pdb
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\19laco_foreach\obj\Debug\net8.0\19laco_foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\19laco_foreach\obj\Debug\net8.0\19laco_foreach.AssemblyInfoInputs.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\19laco_foreach\obj\Debug\net8.0\19laco_foreach.AssemblyInfo.cs
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\19laco_foreach\obj\Debug\net8.0\19laco_foreach.csproj.CoreCompileInputs.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\19laco_foreach\obj\Debug\net8.0\19laco_foreach.sourcelink.json
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\19laco_foreach\obj\Debug\net8.0\19laco_foreach.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\19laco_foreach\obj\Debug\net8.0\refint\19laco_foreach.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\19laco_foreach\obj\Debug\net8.0\19laco_foreach.pdb
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\19laco_foreach\obj\Debug\net8.0\19laco_foreach.genruntimeconfig.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\19laco_foreach\obj\Debug\net8.0\ref\19laco_foreach.dll

@@ -1,0 +1,15 @@
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\03construtor\bin\Debug\net8.0\03construtor.exe
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\03construtor\bin\Debug\net8.0\03construtor.deps.json
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\03construtor\bin\Debug\net8.0\03construtor.runtimeconfig.json
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\03construtor\bin\Debug\net8.0\03construtor.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\03construtor\bin\Debug\net8.0\03construtor.pdb
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\03construtor\obj\Debug\net8.0\03construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\03construtor\obj\Debug\net8.0\03construtor.AssemblyInfoInputs.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\03construtor\obj\Debug\net8.0\03construtor.AssemblyInfo.cs
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\03construtor\obj\Debug\net8.0\03construtor.csproj.CoreCompileInputs.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\03construtor\obj\Debug\net8.0\03construtor.sourcelink.json
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\03construtor\obj\Debug\net8.0\03construtor.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\03construtor\obj\Debug\net8.0\refint\03construtor.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\03construtor\obj\Debug\net8.0\03construtor.pdb
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\03construtor\obj\Debug\net8.0\03construtor.genruntimeconfig.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\03construtor\obj\Debug\net8.0\ref\03construtor.dll

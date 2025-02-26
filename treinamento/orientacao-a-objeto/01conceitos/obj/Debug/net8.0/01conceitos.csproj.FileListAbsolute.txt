@@ -1,0 +1,15 @@
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\01conceitos\bin\Debug\net8.0\01conceitos.exe
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\01conceitos\bin\Debug\net8.0\01conceitos.deps.json
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\01conceitos\bin\Debug\net8.0\01conceitos.runtimeconfig.json
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\01conceitos\bin\Debug\net8.0\01conceitos.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\01conceitos\bin\Debug\net8.0\01conceitos.pdb
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\01conceitos\obj\Debug\net8.0\01conceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\01conceitos\obj\Debug\net8.0\01conceitos.AssemblyInfoInputs.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\01conceitos\obj\Debug\net8.0\01conceitos.AssemblyInfo.cs
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\01conceitos\obj\Debug\net8.0\01conceitos.csproj.CoreCompileInputs.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\01conceitos\obj\Debug\net8.0\01conceitos.sourcelink.json
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\01conceitos\obj\Debug\net8.0\01conceitos.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\01conceitos\obj\Debug\net8.0\refint\01conceitos.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\01conceitos\obj\Debug\net8.0\01conceitos.pdb
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\01conceitos\obj\Debug\net8.0\01conceitos.genruntimeconfig.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\01conceitos\obj\Debug\net8.0\ref\01conceitos.dll

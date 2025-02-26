@@ -1,0 +1,15 @@
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\10condicional_simples\bin\Debug\net8.0\10condicional_simples.exe
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\10condicional_simples\bin\Debug\net8.0\10condicional_simples.deps.json
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\10condicional_simples\bin\Debug\net8.0\10condicional_simples.runtimeconfig.json
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\10condicional_simples\bin\Debug\net8.0\10condicional_simples.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\10condicional_simples\bin\Debug\net8.0\10condicional_simples.pdb
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\10condicional_simples\obj\Debug\net8.0\10condicional_simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\10condicional_simples\obj\Debug\net8.0\10condicional_simples.AssemblyInfoInputs.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\10condicional_simples\obj\Debug\net8.0\10condicional_simples.AssemblyInfo.cs
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\10condicional_simples\obj\Debug\net8.0\10condicional_simples.csproj.CoreCompileInputs.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\10condicional_simples\obj\Debug\net8.0\10condicional_simples.sourcelink.json
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\10condicional_simples\obj\Debug\net8.0\10condicional_simples.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\10condicional_simples\obj\Debug\net8.0\refint\10condicional_simples.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\10condicional_simples\obj\Debug\net8.0\10condicional_simples.pdb
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\10condicional_simples\obj\Debug\net8.0\10condicional_simples.genruntimeconfig.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\10condicional_simples\obj\Debug\net8.0\ref\10condicional_simples.dll

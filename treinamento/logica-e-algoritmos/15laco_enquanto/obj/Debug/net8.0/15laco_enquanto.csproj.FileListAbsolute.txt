@@ -1,0 +1,15 @@
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\15laco_enquanto\bin\Debug\net8.0\15laco_enquanto.exe
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\15laco_enquanto\bin\Debug\net8.0\15laco_enquanto.deps.json
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\15laco_enquanto\bin\Debug\net8.0\15laco_enquanto.runtimeconfig.json
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\15laco_enquanto\bin\Debug\net8.0\15laco_enquanto.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\15laco_enquanto\bin\Debug\net8.0\15laco_enquanto.pdb
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\15laco_enquanto\obj\Debug\net8.0\15laco_enquanto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\15laco_enquanto\obj\Debug\net8.0\15laco_enquanto.AssemblyInfoInputs.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\15laco_enquanto\obj\Debug\net8.0\15laco_enquanto.AssemblyInfo.cs
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\15laco_enquanto\obj\Debug\net8.0\15laco_enquanto.csproj.CoreCompileInputs.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\15laco_enquanto\obj\Debug\net8.0\15laco_enquanto.sourcelink.json
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\15laco_enquanto\obj\Debug\net8.0\15laco_enquanto.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\15laco_enquanto\obj\Debug\net8.0\refint\15laco_enquanto.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\15laco_enquanto\obj\Debug\net8.0\15laco_enquanto.pdb
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\15laco_enquanto\obj\Debug\net8.0\15laco_enquanto.genruntimeconfig.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\15laco_enquanto\obj\Debug\net8.0\ref\15laco_enquanto.dll

@@ -1,0 +1,15 @@
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\02encapsulamento\bin\Debug\net8.0\02encapsulamento.exe
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\02encapsulamento\bin\Debug\net8.0\02encapsulamento.deps.json
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\02encapsulamento\bin\Debug\net8.0\02encapsulamento.runtimeconfig.json
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\02encapsulamento\bin\Debug\net8.0\02encapsulamento.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\02encapsulamento\bin\Debug\net8.0\02encapsulamento.pdb
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\02encapsulamento\obj\Debug\net8.0\02encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\02encapsulamento\obj\Debug\net8.0\02encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\02encapsulamento\obj\Debug\net8.0\02encapsulamento.AssemblyInfo.cs
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\02encapsulamento\obj\Debug\net8.0\02encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\02encapsulamento\obj\Debug\net8.0\02encapsulamento.sourcelink.json
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\02encapsulamento\obj\Debug\net8.0\02encapsulamento.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\02encapsulamento\obj\Debug\net8.0\refint\02encapsulamento.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\02encapsulamento\obj\Debug\net8.0\02encapsulamento.pdb
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\02encapsulamento\obj\Debug\net8.0\02encapsulamento.genruntimeconfig.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\02encapsulamento\obj\Debug\net8.0\ref\02encapsulamento.dll

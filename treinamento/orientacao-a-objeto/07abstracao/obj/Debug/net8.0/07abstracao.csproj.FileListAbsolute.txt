@@ -1,0 +1,15 @@
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\07abstracao\bin\Debug\net8.0\07abstracao.exe
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\07abstracao\bin\Debug\net8.0\07abstracao.deps.json
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\07abstracao\bin\Debug\net8.0\07abstracao.runtimeconfig.json
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\07abstracao\bin\Debug\net8.0\07abstracao.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\07abstracao\bin\Debug\net8.0\07abstracao.pdb
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\07abstracao\obj\Debug\net8.0\07abstracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\07abstracao\obj\Debug\net8.0\07abstracao.AssemblyInfoInputs.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\07abstracao\obj\Debug\net8.0\07abstracao.AssemblyInfo.cs
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\07abstracao\obj\Debug\net8.0\07abstracao.csproj.CoreCompileInputs.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\07abstracao\obj\Debug\net8.0\07abstracao.sourcelink.json
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\07abstracao\obj\Debug\net8.0\07abstracao.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\07abstracao\obj\Debug\net8.0\refint\07abstracao.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\07abstracao\obj\Debug\net8.0\07abstracao.pdb
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\07abstracao\obj\Debug\net8.0\07abstracao.genruntimeconfig.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\treinamento\orientacao-a-objeto\07abstracao\obj\Debug\net8.0\ref\07abstracao.dll

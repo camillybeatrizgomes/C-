@@ -1,0 +1,15 @@
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\14estrutura_de_escolha\bin\Debug\net8.0\14estrutura_de_escolha.exe
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\14estrutura_de_escolha\bin\Debug\net8.0\14estrutura_de_escolha.deps.json
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\14estrutura_de_escolha\bin\Debug\net8.0\14estrutura_de_escolha.runtimeconfig.json
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\14estrutura_de_escolha\bin\Debug\net8.0\14estrutura_de_escolha.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\14estrutura_de_escolha\bin\Debug\net8.0\14estrutura_de_escolha.pdb
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\14estrutura_de_escolha\obj\Debug\net8.0\14estrutura_de_escolha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\14estrutura_de_escolha\obj\Debug\net8.0\14estrutura_de_escolha.AssemblyInfoInputs.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\14estrutura_de_escolha\obj\Debug\net8.0\14estrutura_de_escolha.AssemblyInfo.cs
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\14estrutura_de_escolha\obj\Debug\net8.0\14estrutura_de_escolha.csproj.CoreCompileInputs.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\14estrutura_de_escolha\obj\Debug\net8.0\14estrutura_de_escolha.sourcelink.json
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\14estrutura_de_escolha\obj\Debug\net8.0\14estrutura_de_escolha.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\14estrutura_de_escolha\obj\Debug\net8.0\refint\14estrutura_de_escolha.dll
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\14estrutura_de_escolha\obj\Debug\net8.0\14estrutura_de_escolha.pdb
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\14estrutura_de_escolha\obj\Debug\net8.0\14estrutura_de_escolha.genruntimeconfig.cache
+C:\Users\Camilly\OneDrive\Documentos\estudos\c#\praticando\logica-e-algoritmos\14estrutura_de_escolha\obj\Debug\net8.0\ref\14estrutura_de_escolha.dll
